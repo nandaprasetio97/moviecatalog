@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.nandaprasetio.moviecatalog.favourite">
+
+    <dist:module
+        dist:instant="false"
+        dist:title="@string/favourite_module">
+        <dist:delivery>
+            <dist:on-demand />
+        </dist:delivery>
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    <application tools:ignore="AllowBackup">
+        <activity android:name=".presentation.VideoFavouriteLikeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="moviecatalog"
+                    android:host="videofavouritelike"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".presentation.VideoFavouriteActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="moviecatalog"
+                    android:host="videofavourite"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

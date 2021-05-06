@@ -1,0 +1,5 @@
+package com.nandaprasetio.core.data.listloaderdataargument.videolistloaderargument
+
+import com.nandaprasetio.core.data.listloaderdataargument.ListLoaderDataArgument
+
+abstract class VideoListLoaderDataArgument: ListLoaderDataArgument
