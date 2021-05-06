@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <string name="something_failed">Ada sesuatu yang salah.</string>
+    <string name="please_wait">Mohon menunggu.</string>
+    <string name="no_data">Data tidak ditemukan.</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tv_show">Detail TV Show</string>
+    <string name="released_date">Tanggal Rilis</string>
+    <string name="original_languange">Bahasa Asal</string>
+    <string name="overview">Pratinjau</string>
+    <string name="popularity">Popularitas</string>
+    <string name="vote_average">Vote Rata-Rata</string>
+    <string name="vote_count">Banyak Vote</string>
+    <string name="favourite">Favorit</string>
+    <string name="retry">Ulang</string>
+    <string name="unknown_error">Error tidak diketahui.</string>
+    <string name="favourite_button">Tombol Favorit</string>
+    <string name="title_favourite">Favourit</string>
+    <string name="success_load_module">Sukses load modul.</string>
+    <string name="module_not_available">Untuk saat ini modul yang diminta tidak tersedia.</string>
+</resources>

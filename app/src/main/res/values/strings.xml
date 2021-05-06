@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <string name="something_failed">There is something failed.</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="no_data">No data exists.</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="detail_movie">Movie Detail</string>
+    <string name="detail_tv_show">TV Show Detail</string>
+    <string name="sample_title" translatable="false">(Sample Title)</string>
+    <string name="released_date">Released Date</string>
+    <string name="sample_released_date" translatable="false">(Sample Released Date)</string>
+    <string name="original_languange">Original Languange</string>
+    <string name="sample_original_languange" translatable="false">(Sample Original Languange)</string>
+    <string name="overview">Overview</string>
+    <string name="sample_overview" translatable="false">(Sample Overview)</string>
+    <string name="popularity">Popularity</string>
+    <string name="sample_popularity" translatable="false">(Sample Popularity)</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="sample_vote_average" translatable="false">(Sample Vote Average)</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="sample_vote_count" translatable="false">(Sample Vote Count)</string>
+    <string name="favourite">Favourite</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="sample_error" translatable="false">Sample Error.</string>
+    <string name="favourite_button">Favourite Button</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="favourite_module" translatable="false">Favourite</string>
+    <string name="success_load_module">Success load module.</string>
+    <string name="module_not_available">For now requested module is not available.</string>
+</resources>
