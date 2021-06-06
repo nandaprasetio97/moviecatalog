@@ -8,4 +8,5 @@ Movie Catalog is an Android application that show list of movies and TV show. Th
 * [SQLCipher](https://www.zetetic.net/sqlcipher/sqlcipher-for-android) (Database encryption library).
 * [Koin](https://insert-koin.io/) (Kotlin dependency injection library).
 * [Robolectric](http://robolectric.org) (Unit testing involving the android framework).
+
 This application using MVVM (Model - View - View Model) Clean Architecture as pattern and coroutine as async process.
